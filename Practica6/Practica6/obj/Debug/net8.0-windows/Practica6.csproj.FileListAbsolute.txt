@@ -1,0 +1,16 @@
+C:\Users\efren\source\repos\Practica6\Practica6\obj\Debug\net8.0-windows\Practica6.Form1.resources
+C:\Users\efren\source\repos\Practica6\Practica6\obj\Debug\net8.0-windows\Practica6.csproj.GenerateResource.cache
+C:\Users\efren\source\repos\Practica6\Practica6\obj\Debug\net8.0-windows\Practica6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efren\source\repos\Practica6\Practica6\obj\Debug\net8.0-windows\Practica6.AssemblyInfoInputs.cache
+C:\Users\efren\source\repos\Practica6\Practica6\obj\Debug\net8.0-windows\Practica6.AssemblyInfo.cs
+C:\Users\efren\source\repos\Practica6\Practica6\obj\Debug\net8.0-windows\Practica6.csproj.CoreCompileInputs.cache
+C:\Users\efren\source\repos\Practica6\Practica6\bin\Debug\net8.0-windows\Practica6.exe
+C:\Users\efren\source\repos\Practica6\Practica6\bin\Debug\net8.0-windows\Practica6.deps.json
+C:\Users\efren\source\repos\Practica6\Practica6\bin\Debug\net8.0-windows\Practica6.runtimeconfig.json
+C:\Users\efren\source\repos\Practica6\Practica6\bin\Debug\net8.0-windows\Practica6.dll
+C:\Users\efren\source\repos\Practica6\Practica6\bin\Debug\net8.0-windows\Practica6.pdb
+C:\Users\efren\source\repos\Practica6\Practica6\obj\Debug\net8.0-windows\Practica6.dll
+C:\Users\efren\source\repos\Practica6\Practica6\obj\Debug\net8.0-windows\refint\Practica6.dll
+C:\Users\efren\source\repos\Practica6\Practica6\obj\Debug\net8.0-windows\Practica6.pdb
+C:\Users\efren\source\repos\Practica6\Practica6\obj\Debug\net8.0-windows\Practica6.genruntimeconfig.cache
+C:\Users\efren\source\repos\Practica6\Practica6\obj\Debug\net8.0-windows\ref\Practica6.dll
